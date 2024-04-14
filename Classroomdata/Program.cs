@@ -1,4 +1,4 @@
-namespace Classroomdata
+namespace ProductsArrays
 {
 	internal static class Program
 	{

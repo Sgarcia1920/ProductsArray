@@ -1,4 +1,4 @@
-﻿namespace Classroomdata
+﻿namespace ProductsArrays
 {
 	partial class Form1
 	{

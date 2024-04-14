@@ -3,7 +3,7 @@ using System.Data.Common;
 using System.Text;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace Classroomdata
+namespace ProductsArrays
 {
 	public partial class Form1 : Form
 	{
