@@ -46,7 +46,7 @@ namespace ProductsArrays
 			}
 			try
 			{
-				products[index / (products.GetLength(1) * products.GetLength(2)), (index / products.GetLength(2)) % products.GetLength(1), index % products.GetLength(2)] = new Products()
+			      products[index / (products.GetLength(1) * products.GetLength(2)), (index / products.GetLength(2)) % products.GetLength(1), index % products.GetLength(2)] = new Products()
 				{
 					Product = txt_product.Text,
 					Category = txtCategory.Text,
